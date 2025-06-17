@@ -1,6 +1,7 @@
 FinTech Mobile Application – UI Prototype
 This repository contains the User Interface (UI) Design Prototype for our FinTech mobile application, developed as part of our group project at Limkokwing University – Faculty of ICT (March 2025 to July 2025 semester).
 The prototype was built using Figma and showcases the core features and visual design of the mobile app.
+
 About the Project 
 This project is a FinTech Mobile Application Prototype designed to provide users with a smooth, secure, and user-friendly financial experience. It is developed as part of our academic coursework under the Faculty of Information and Communication Technology at Limkokwing University, Sierra Leone for the March 2025 – July 2025 semester.
 The prototype showcases the core features and interface layout of a digital wallet application tailored for both basic financial transactions and modern mobile banking needs.
